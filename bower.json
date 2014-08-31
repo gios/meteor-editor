@@ -1,0 +1,15 @@
+{
+  "name": "meteor-editor",
+  "version": "0.1.0",
+  "authors": [
+    "Gios"
+  ],
+  "license": "GPLv2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
